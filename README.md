@@ -48,6 +48,6 @@ python file_scraper.py /path/to/your/file.txt
     <img src="https://img.shields.io/badge/View_on-GitHub-3498db?style=for-the-badge" alt="View on GitHub">
   </a>
 </p>
-```
+
 
 
