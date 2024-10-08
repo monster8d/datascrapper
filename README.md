@@ -33,7 +33,7 @@ The extracted data will be automatically sent to your Telegram bot.
 ## 📚 Example
 To scrape a file and send its content to your bot, use the command:
 ```bash
-python file_scraper.py /path/to/your/file.pdf
+python file_scraper.py /path/to/your/file.txt
 ```
 
 ## 🛠️ Potential Use Cases
@@ -44,13 +44,10 @@ python file_scraper.py /path/to/your/file.pdf
 ---
 
 <p align="center">
-  <a href="https://github.com/your-repo-link">
+  <a href="https://github.com/monster8d">
     <img src="https://img.shields.io/badge/View_on-GitHub-3498db?style=for-the-badge" alt="View on GitHub">
   </a>
 </p>
 ```
 
-### Notes:
-- Replace `https://github.com/your-repo-link` with the actual URL of your GitHub repository.
-- This badge at the bottom is a visual button, which links to the repository and is centered for better visual appeal.
-- GitHub Markdown does not support animations, but this layout provides a clean and well-organized presentation of your project.
+
